@@ -1,2 +1,2 @@
 # DoomCalculator
-i just made sum bssss
+i just made some bs
